@@ -20,11 +20,9 @@ h3 {
     color: var(--primary-color);
 }
 
-.sub-heading-color {
-    color: var(--highlight-color);
-}
 
-/* grid visualisation CSS for tessteing */
+
+/* grid visualisation CSS for tessteing 
 
 .container,
 .row    {
@@ -34,4 +32,4 @@ h3 {
 .col-12 {
     border: 21px solid white;
     background-color: lightgray;
-}
+} */
