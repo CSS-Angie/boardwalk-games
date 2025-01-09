@@ -33,3 +33,8 @@ h3 {
     border: 21px solid white;
     background-color: lightgray;
 } */
+
+.navbar {
+    background-color: var(--primary-color);
+    color: var(--highlight-color)
+}
